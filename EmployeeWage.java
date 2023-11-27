@@ -5,7 +5,7 @@ public class EmployeeWage {
         int min=0;
         //case 1:Check Employee is Present or Absent
         int present=(int)(Math.random()*(max-min+1));
-        if(present==1){
+        if(present==1){ 
             System.out.println("employee is present");
         } else{
             System.out.println("employee is absent");
