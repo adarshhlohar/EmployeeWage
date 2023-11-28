@@ -74,5 +74,6 @@ public class EmployeeWage {
             monthlyPay = noOfWeeks / 12;
             System.out.println("monthlyPay: " + monthlyPay);
         }
+        
     }
 }
